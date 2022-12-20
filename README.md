@@ -1,5 +1,9 @@
 # Diary
 
+This is my diary of GPT-3 writings based on random words that Dan posts to his Mastodon.
+
+---
+
 ## 12/20/2022
 
 Today I heard some news that shook me to the core. Apparently, Cerinthus Themistocles Dogginson Arnold, a notorious and dangerous criminal, managed to escape from prison! He had put up quite a fight, but nobody expected someone of his caliber to survive his incarceration. Word is that Dozzer took a motheaten canvas bag and some pocket change with him when he disappeared. He left behind a map that showed his supposed plans for a hideout located in Tahpenes. They say he had recruited an army of pereny and gibeonite, some of them asked from the streets of Pavia, who have been spliced with prostitutes and nape-snuffs. The authorities are trying their best to find Dozzer and his barbaric crew, but nobody knows if they are ever going to succeed, or if this wild-eyed villain is going to get away with his plans. I worry for my family, and although I want to distinguish myself as one of the few couples still safe and secure, I can't help but fear for all of us.

@@ -20,7 +20,7 @@ async function main() {
   }
 
   if (newEntries) {
-    diary = diary.replace('# Diary', `# Diary\n\n${newEntries}`);
+    diary = diary.replace('---', `---\n\n${newEntries}`);
     fs.writeFileSync('README.md', diary, {encoding: 'utf8'});
   }
 }
