@@ -14,12 +14,15 @@ async function main() {
   for await (const words of await getRandomWords()) {
 
     const date = words.created.toLocaleDateString();
+
+    // if the diary alredy has an entry for this date we're done
     if (diary.match(date)) break
 
     const result = await diaryEntry(words.text);
     newEntries += `## ${date}\n\n${result}`;
   }
 
+  // if we got new entries write them and push them to github
   if (newEntries) {
     diary = diary.replace('---', `---\n\n${newEntries}`);
     fs.writeFileSync('README.md', diary, {encoding: 'utf8'});
@@ -27,6 +30,10 @@ async function main() {
     run('git push origin main');
   }
 }
+
+/**
+ * Ask GPT-3 to give us a diary extry using the supplied words.
+ */
 
 async function diaryEntry(text) {
 
@@ -50,6 +57,10 @@ async function diaryEntry(text) {
   }
 }
 
+/**
+ * Get random words by date from Dan's Mastodon
+ */
+
 async function* getRandomWords() {
   const c = await masto.login({url: 'https://social.coop', accessToken: process.env.MASTODON_TOKEN});
   const results = c.accounts.getStatusesIterable('231442', {sinceId: '1'});
@@ -65,6 +76,10 @@ async function* getRandomWords() {
     }
   }
 }
+
+/**
+ * Run a system command.
+ */
 
 function run(cmd) {
   exec(cmd, (error, stdout, stderr) => {
