@@ -23,8 +23,8 @@ async function main() {
   if (newEntries) {
     diary = diary.replace('---', `---\n\n${newEntries}`);
     fs.writeFileSync('README.md', diary, {encoding: 'utf8'});
-    exec('git commit -m new entry README.md');
-    exec('git push origin main');
+    run('git commit -m "new entry" README.md');
+    run('git push origin main');
   }
 }
 
@@ -64,6 +64,14 @@ async function* getRandomWords() {
       }
     }
   }
+}
+
+function run(cmd) {
+  exec(cmd, (error, stdout, stderr) => {
+    if (error) {
+      console.log(stderr);
+    }
+  });
 }
 
 main();
