@@ -1,0 +1,18 @@
+{
+  "name": "diary",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "html-to-text": "^9.0.3",
+    "masto": "^4.10.2",
+    "openai": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.17",
+    "typescript": "^4.9.4"
+  },
+  "scripts": {
+    "start": "npm run clean && npm run build && node dist/diary.js",
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  }
+}
