@@ -2,6 +2,7 @@ import fs from 'fs';
 import masto from 'masto'
 import dotenv from 'dotenv';
 
+import { exec } from 'child_process';
 import { convert as html2text } from 'html-to-text';
 import { Configuration, OpenAIApi }  from 'openai';
 
@@ -22,6 +23,8 @@ async function main() {
   if (newEntries) {
     diary = diary.replace('---', `---\n\n${newEntries}`);
     fs.writeFileSync('README.md', diary, {encoding: 'utf8'});
+    exec('git commit -m new entry README.md');
+    exec('git push origin main');
   }
 }
 
@@ -41,7 +44,7 @@ async function diaryEntry(text) {
   });
 
   if (response.data.choices[0].text) {
-    return response.data.choices[0].text.trim(); //replace(/\n/g, '');
+    return response.data.choices[0].text.trim();
   } else {
     throw `Unable to get text for #{text}`;
   }
