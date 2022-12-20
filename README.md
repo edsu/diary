@@ -1,6 +1,6 @@
 # Diary
 
-This is my diary of GPT-3 writings based on random words that Dan posts to his Mastodon.
+This is my diary of GPT-3 writings based on random words that Dan posts to his Mastodon. It updates every day after he posts. Or at least that's the plan!
 
 ---
 
