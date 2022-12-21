@@ -2,7 +2,7 @@ import fs from 'fs';
 import masto from 'masto'
 import dotenv from 'dotenv';
 
-import { exec } from 'child_process';
+import { execSync } from 'child_process';
 import { convert as html2text } from 'html-to-text';
 import { Configuration, OpenAIApi }  from 'openai';
 
@@ -15,7 +15,7 @@ async function main() {
 
     const date = words.created.toLocaleDateString();
 
-    // if the diary alredy has an entry for this date we're done
+    // if the diary already has an entry for this date we're done
     if (diary.match(date)) break
 
     const result = await diaryEntry(words.text);
@@ -26,8 +26,8 @@ async function main() {
   if (newEntries) {
     diary = diary.replace('---', `---\n\n${newEntries}`);
     fs.writeFileSync('README.md', diary, {encoding: 'utf8'});
-    run('git commit -m "new entry" README.md');
-    run('git push origin main');
+    execSync('git commit -m "new entry" README.md');
+    execSync('git push origin main');
   }
 }
 
@@ -75,18 +75,6 @@ async function* getRandomWords() {
       }
     }
   }
-}
-
-/**
- * Run a system command.
- */
-
-function run(cmd) {
-  exec(cmd, (error, stdout, stderr) => {
-    if (error) {
-      console.log(stderr);
-    }
-  });
 }
 
 main();
