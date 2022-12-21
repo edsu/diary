@@ -11,7 +11,7 @@ dotenv.config();
 async function main() {
   let diary = fs.readFileSync('README.md', {encoding: 'utf8'});
   let newEntries = "";
-  for await (const words of await getRandomWords()) {
+  for await (const words of getRandomWords()) {
 
     const date = words.created.toLocaleDateString();
 
