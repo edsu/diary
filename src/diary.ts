@@ -24,7 +24,7 @@ async function main() {
     diary = diary.replace('---', `---\n\n${newEntries}`);
     fs.writeFileSync('README.md', diary, {encoding: 'utf8'});
     execSync('git commit -m "new entry" README.md');
-    execSync('git push origin main');
+    execSync('git push --quiet origin main');
   }
 }
 
