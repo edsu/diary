@@ -6,23 +6,20 @@ import { execSync } from 'child_process';
 import { convert as html2text } from 'html-to-text';
 import { Configuration, OpenAIApi }  from 'openai';
 
-dotenv.config();
-
 async function main() {
   let diary = fs.readFileSync('README.md', {encoding: 'utf8'});
   let newEntries = "";
   for await (const words of getRandomWords()) {
-
     const date = words.created.toLocaleDateString();
 
     // if the diary already has an entry for this date we're done
     if (diary.match(date)) break
 
     const result = await diaryEntry(words.text);
-    newEntries += `## ${date}\n\n${result}`;
+    newEntries += `## ${date}\n\n${result}\n\n`;
   }
 
-  // if we got new entries write them and push them to github
+  // if we wrote new entries save them and push them to github
   if (newEntries) {
     diary = diary.replace('---', `---\n\n${newEntries}`);
     fs.writeFileSync('README.md', diary, {encoding: 'utf8'});
@@ -37,21 +34,19 @@ async function main() {
 
 async function diaryEntry(text) {
 
-  const config = new Configuration({
-    organization: process.env.OPENAI_ORG,
-    apiKey: process.env.OPENAI_API_KEY
-  });
-
-  const openai = new OpenAIApi(config);
-
   const response = await openai.createCompletion({
     model: "text-davinci-003",
     max_tokens: 400,
     prompt: `write a paragraph from a personal diary with the words: ${text}`
   });
 
+  // if openai worked, italicize the seed words in the text and return it
   if (response.data.choices[0].text) {
-    return response.data.choices[0].text.trim();
+    let entry = response.data.choices[0].text.trim();
+    for (const word of text.split(' ')) {
+      entry = entry.replace(new RegExp(word, 'gi'), `*${word}*`);
+    }
+    return entry; 
   } else {
     throw `Unable to get text for #{text}`;
   }
@@ -76,5 +71,14 @@ async function* getRandomWords() {
     }
   }
 }
+
+dotenv.config();
+
+const openai = new OpenAIApi(
+  new Configuration({
+    organization: process.env.OPENAI_ORG,
+    apiKey: process.env.OPENAI_API_KEY
+  })
+);
 
 main();
