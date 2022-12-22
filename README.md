@@ -6,7 +6,7 @@ This is my diary of GPT-3 writings based on random words that Dan posts to his M
 
 ## 12/22/2022
 
-Today I took a long walk around town, admiring the *ombre* dusk that was turning the distant horizon a cool sapphire blue. Along the way, I encountered much of the town's local flora and fauna. Flocks of *chafers* flitted around me, flying just above my head, and a *householder* *friended* me, eagerly explaining the local *geologies*. I passed *slews* of people engaged in idle conversations, discussing the latest news or *manichean* theories. What was most strange, however, was the lone figure walking ahead of me. I quickly recognized him as a *turncoat*, as he'd been recently embroiled in a campaign of *wilily* *saucerism*. He seemed oblivious to the fact that his plans had already been *corralled* - his scheming laid to waste by the *capabilities* of the *longland* government. As I watched his faint silhouette disappear into the night, a resonant *gazimbat* tapped out from the shadows, and I reflected on the anonymous legacy of those whose actions are never fully understood or published.
+Today has been the epitome of a frenzied day, and I could feel my *capabilities* slowly draining by the second. A *friended* I had made among the *householder*s turned out to be a *turncoat*, which I found *wilily* ironic. Whatever *manichean* arguments I had politicked were no match for their *slews* of *unpublished* *saucerism*, *corralled* in a way that was hard for me to argue. Although I had *longland* tried to quell the *gazimbat* of conversation, I had ultimately been defeated. As the day drew to a close, I could see *walkest* shadows of the *ombre* sky stretching out and moody *geologies* of grey *taps* punctuating the horizon.
 
 
 ## 12/21/2022
