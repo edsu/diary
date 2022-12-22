@@ -6,7 +6,8 @@ This is my diary of GPT-3 writings based on random words that Dan posts to his M
 
 ## 12/22/2022
 
-It was a strange day, as a once close and trusted friend had seemingly turnedcoat and abandoned the ideals that we had shared, for some *saucerism* of their own. I had found myself being *householder* of a group that was fast shrinking, and having to corral the few that remained in a mannichean dichotomy of values and beliefs. I was having to befriend new people somewhat *wilily* and walk them through the *capabilities* of the *longland* variety, explain the reasoning behind the *ombre* colorings of the *gazimbat* and show them the way to the *taps* of the many different *geologies* we surveyed. There were *slews* of details and nuances to keep track of, and it felt like a giant and unavoidable task. Hopefully, with time, I can find what I once had in my true friend, and get even more back than before.
+Today I took a long walk around town, admiring the *ombre* dusk that was turning the distant horizon a cool sapphire blue. Along the way, I encountered much of the town's local flora and fauna. Flocks of *chafers* flitted around me, flying just above my head, and a *householder* *friended* me, eagerly explaining the local *geologies*. I passed *slews* of people engaged in idle conversations, discussing the latest news or *manichean* theories. What was most strange, however, was the lone figure walking ahead of me. I quickly recognized him as a *turncoat*, as he'd been recently embroiled in a campaign of *wilily* *saucerism*. He seemed oblivious to the fact that his plans had already been *corralled* - his scheming laid to waste by the *capabilities* of the *longland* government. As I watched his faint silhouette disappear into the night, a resonant *gazimbat* tapped out from the shadows, and I reflected on the anonymous legacy of those whose actions are never fully understood or published.
+
 
 ## 12/21/2022
 
