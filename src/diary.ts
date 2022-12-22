@@ -9,13 +9,13 @@ import { Configuration, OpenAIApi }  from 'openai';
 async function main() {
   let diary = fs.readFileSync('README.md', {encoding: 'utf8'});
   let newEntries = "";
-  for await (const words of getRandomWords()) {
-    const date = words.created.toLocaleDateString();
+  for await (const prompt of getPrompts()) {
+    const date = prompt.created.toLocaleDateString();
 
     // if the diary already has an entry for this date we're done
     if (diary.match(date)) break
 
-    const result = await diaryEntry(words.text);
+    const result = await getDiaryEntry(prompt.text);
     newEntries += `## ${date}\n\n${result}\n\n`;
   }
 
@@ -32,7 +32,7 @@ async function main() {
  * Ask GPT-3 to give us a diary extry using the supplied words.
  */
 
-async function diaryEntry(text) {
+async function getDiaryEntry(text) : Promise<string> {
 
   const response = await openai.createCompletion({
     model: "text-davinci-003",
@@ -53,24 +53,34 @@ async function diaryEntry(text) {
 }
 
 /**
- * Get random words by date from Dan's Mastodon
+ * Get word prompts from Dan's Mastodon
  */
 
-async function* getRandomWords() {
+async function* getPrompts() : AsyncIterable<Prompt> {
   const c = await masto.login({url: 'https://social.coop', accessToken: process.env.MASTODON_TOKEN});
   const results = c.accounts.getStatusesIterable('231442', {sinceId: '1'});
   for await (let result of results) {
     for (const post of result) {
       if (post.spoilerText == 'randomly chosen words') {
         const text = html2text(post.content).replace(/\n/g, ' ');
-        yield {
-          created: new Date(post.createdAt),
-          text: text
-        }
+        yield new Prompt(new Date(post.createdAt), text);
       }
     }
   }
 }
+
+class Prompt {
+  text: string;
+  created: Date;
+
+  constructor(created: Date, text: string) {
+    this.created = created;
+    this.text = text;
+  }
+}
+
+// configure OpenAI client once
+// they seem to throw a 503 if we do this too much in a loop
 
 dotenv.config();
 
