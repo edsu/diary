@@ -27,8 +27,6 @@ Today was a strange day at school. My teacher, Mrs. *maurers*, kept *reiterating
 
 ## 12/16/2022
 
-led
-
 It was a particularly exciting day for me today as I attended my first ever political rally. *numerously* groups, *coalitions* and campaigner were in attendance and had gathered to support the candidacy of *alphonso* *quarles*. Without hesitation the crowd was *anointing* him and his *representation* as the next mayor of this town. Although I entered the event *reservedly*, I soon found myself to be *adequate*ly *reliant* on the *theatric* performance of Senator *mccann*. He spoke with a resonating voice and his words seemed to *jost*le and diffract throughout *njáls* *sphere*, obviating any need for *repair*.
 
 ## 12/15/2022
