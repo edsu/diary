@@ -4,6 +4,12 @@ This is my diary of GPT-3 writings based on random words that Dan posts to his M
 
 ---
 
+## 12/25/2022
+
+Today I was in *flatbush* with *laura* and we found the most amazing old-fashioned art store! The walls were lined with *boethius* paintings and my eyes almost fell out of my head. The clerk, *senuah*, was *justest* *oath*-material; speaking with him made me feel like I was talking to a philosopher like *schelling*. We struck a conversation about *tillinghast* and we laughed about the memories associated with old *philomy* records. It was so cool that I almost forgot the time and before we knew it, we had been inside the store for nearly two hours! As we walked home, I could sense that *laura* was *stirs* by the conversation we had and I felt *isidore* as well. As we turned the corner of the street, everything was *nodding* and *jolting*, and I could literally *perceivest* the joy of the moment in the air. *boomed* *breikis*!
+
+
+
 ## 12/23/2022
 
 Today has been a really bizarre day. I went to the *rustica* market and it was jam-packed with frantic shoppers. The smell of *cordials* wafted through the air and the *shrieks* of *sparrow*s provided a strangely soothing soundtrack. As I browsed the stalls, I saw a plethora of *plums*, *mercers* and *hearthstone* and I felt sure that I could find some treasures here. The seller at the glove stall told me about a rare *nickel* pair that was made by the *sheriffs* of *livin*, and if I was lucky I could snatch them up at a bargain. Alas, none of the stalls were selling what I was looking for, but as I was about to leave, I stumbled across an *ebed* vendor which had a pair of *habaiah* shoes. They were a perfect fit and I've never felt so satisfied until now. I can only hope that in achieving this small win, something greater is yet to come. For now, I'm still trying to make sense of all this *gibberish*!
