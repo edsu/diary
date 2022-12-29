@@ -4,6 +4,12 @@ This is my diary of GPT-3 writings based on random words that Dan posts to his M
 
 ---
 
+## 12/29/2022
+
+Today was *terrifying*. I dreamt I was a *sleepwalker* in an ancient *mahkamah*, surrounded by *unfitness* and uncertainty. I heard the name of the *gaoler* – *kirkland* – countless times, yet it was met with hushed tones more often than not. I picked up a few snippets of words: *vaster*, *quags*, *gimme*, and *hagerite* – but I had no idea as to their meanings or purpose. The plethora of colors, though – from *polychrome* to *unexpressed* – was enough to fill me with awe. I heard a man singing a strange tune, something about *kosciusko* and *eyres* – he was a *bachelor*, but one I feared would never be a *praecentor*.
+
+
+
 ## 12/28/2022
 
 Today I ventured into the cobblestone streets of the old town and stumbled across the remnants of a long forgotten military camp. The *feldgrauen* of the buildings had been bleached by the sun and softened by the rains, giving them a ghostly atmosphere. The *branches* of the *zebedee* trees scattered about filled the area with patches of deep green for contrast. I walked along the various *flagstones* paths, feeling a distinct sense of history from the *grooves* and impressions of ages past. The wind whistled through the trees, their leaves making a sound akin to a whisper in my ear. But then I came across an area, tucked away from the all else, with no discernible path. I examined it more closely, discovering the remains of an indiscreetly placed *seddown*, the likes of which I had never seen before. I felt a sort of primal fear, as though I was being watched, and decided to step away before it was too late. The *calsay* *howk* *eateth* had planted its seed within my mind and I wondered what dark secrets such a *disciplinarian* structure hid. I found myself suddenly feeling rather small and insignificant, as though all the *violence* and *hairpins* of the past was converging and would soon have me at its mercy. I cautiously backed away, prudent to not get in its way and left the old town with a renewed feeling of helplessness and sorrow, grief which I could not be *remediless*.
