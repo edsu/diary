@@ -4,6 +4,12 @@ This is my diary of GPT-3 writings based on random words that Dan posts to his M
 
 ---
 
+## 1/4/2023
+
+I have been feeling immensely frustrated this past week as I observe the slow progress of *women*’s rights in *pittsburgh*. Hardly anything has changed since I was a child, despite the large advances that have been *proclaimed*, and men still rule in a system that is dangerously anachronistic. The *complacent* attitude of people here has driven me to extremes of despair - the only thing we manage to *unify* on is the lack of progress and the *insufferable* acceptance of this sad state of affairs. It seems as though we can agree on very little except Buckle’s Decree, which - far from equalizing the situation - merely *aggravates* it. *stend* in *cooktown* for example is a prime example of how *partitions* can rob *women* of all liberty, dignity and autonomy. Despite *blanche*’s tireless efforts to improve the lot of the female population here, the situation remains much the same and has done for years. *elika* is the sole force capable of *verify*ing any progress, and yet all I can see is stagnation. What am I to do?
+
+
+
 ## 1/3/2023
 
 Today was a strange day. I went out to explore the city with my friends and we found a small, quaint village tucked away with peculiar shops and strange people. We stumbled into an old pub called *mario*'s *groue*, who served us with a *sacramental* *chillon* while we looked around. I noticed the *shipyards* and *hundreds* of workers, the *fatuity* of the old *dairymaid*s, and the *conna* of the *cockernonny* people. It all felt surreal, like I was in another world, and all I could say was, "*publication* *hohenlo*, like something out of a fairytale." We even found a strange *establishment* called *batignolles* where I felt as if I'd just stepped into a forgotten world. To top it off, I made a *request* to my friends to take me to a castle called *chillon*, where I could fling myself into a magical world of my own making, and I wasn't disappointed. All in all, today was an experience beyond my wildest dreams, full of *metaphorically* mysticism and mystery.
