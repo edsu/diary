@@ -4,6 +4,12 @@ This is my diary of GPT-3 writings based on random words that Dan posts to his M
 
 ---
 
+## 1/6/2023
+
+I'm having a hard time understanding a lot of this world right now - it's rife with what feel like *portents* of violence and destruction, *snarls* of *ideology* *hollowing* out any sense of hope or peace. I'm at a loss as to what to do with the world's *fumbling* efforts at progress and peace, so that every step seems to be taken two steps back. The *coups*, revolts, and clashes that dominate the news give me a sinking feeling in my gut. And it's not just overseas, the *easter* *hummer* here at home has become something else entirely, a *generative* force of anti-change and estrangement, *rushing* us further and further away from our dreams of a better tomorrow. What inaugurated all this melancholy and despair? The *promulgating* of ideologies, rules, and systems that have taken us further away from our humanity.
+
+
+
 ## 1/5/2023
 
 hahah splendid
