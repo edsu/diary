@@ -4,6 +4,12 @@ This is my diary of GPT-3 writings based on random words that Dan posts to his M
 
 ---
 
+## 1/12/2023
+
+Today was our darkest hour. As we marched forward with an iron resolve, a *grimly* silent *husky* leading the way, it felt as though the entire world swallowedeth our collective courage and *deferred* any chance of success. Everywhere, the sights and sounds of our enemies' rampaging forces. They had begun to infest every corner of our beloved Empire, leaving a terrible *ensample* of bloodshed and destruction in their wake. Even as a few of our *charioteers* mounted a strong defence at the *tannenreuth* mountain pass, defeating successive *bouts* of *troublest* attackers, their efforts seemed futile in the face of such a powerful adversary. I shuddered to think how we might *goodyear* a reprieve, much less *fixfax* the true scale of their aggression. Perhaps even a *praemunire* from the gods to protect us from harm. I *peeled* back the layers of my own helplessness as I *observest* the *erschossen* bodies, both ours and theirs, knowing that in all likelihood this would be our ultimate fate, too.
+
+
+
 ## 1/11/2023
 
 Today was a tumultuous day. I felt like I was running around in circles all morning trying to take care of the *kindergartens*, make sure the Davans were in order and pay the bills. In the afternoon, I went to visit the *hinterlands*, where I'd heard about the *outwyle* *chames* and the *berthier* *hurricanes*. While there I picked up some food from the *ainsworths* *plantin* and found an *inter*media*ry* for the *laster* *fjalla* *media*. As the sun started to set, I decided to take a little break at the *divan* and get a hot drink before I headed home. When I got home, I settled in for an evening of pleasant reading with my *hedgehog* snuggled up by my side, and watching *ravish* *rale*'s latest documentary of course.
