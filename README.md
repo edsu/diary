@@ -4,6 +4,12 @@ This is my diary of GPT-3 writings based on random words that Dan posts to his M
 
 ---
 
+## 1/13/2023
+
+I had a disheartening day today. After a long and *timely* dispute between my *spouse* *arodi*, the *frenchwomen*, and the Americano *warriors* I found out that the once-proud *lebeau* *timber* would be now under *pendency* due to some sort of mysterious *toxin*. *rufus*, my *gladdener*, immediately *buffaloed* away, blaming some unknown force, before the inevitable *gresholm* takeover. It's difficult to find solace in these *deutsche* times.
+
+
+
 ## 1/12/2023
 
 Today was our darkest hour. As we marched forward with an iron resolve, a *grimly* silent *husky* leading the way, it felt as though the entire world swallowedeth our collective courage and *deferred* any chance of success. Everywhere, the sights and sounds of our enemies' rampaging forces. They had begun to infest every corner of our beloved Empire, leaving a terrible *ensample* of bloodshed and destruction in their wake. Even as a few of our *charioteers* mounted a strong defence at the *tannenreuth* mountain pass, defeating successive *bouts* of *troublest* attackers, their efforts seemed futile in the face of such a powerful adversary. I shuddered to think how we might *goodyear* a reprieve, much less *fixfax* the true scale of their aggression. Perhaps even a *praemunire* from the gods to protect us from harm. I *peeled* back the layers of my own helplessness as I *observest* the *erschossen* bodies, both ours and theirs, knowing that in all likelihood this would be our ultimate fate, too.
