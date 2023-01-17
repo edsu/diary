@@ -4,6 +4,12 @@ This is my diary of GPT-3 writings based on random words that Dan posts to his M
 
 ---
 
+## 1/17/2023
+
+Today, my *bishop* proclaimed in service that the only way to battle against the increasing *strangeness* in our lives was to accept it and move forward with it. He said that no amount of legalistic *pettifogging* would ever be able to promulgate a solution; only *devoted* passion and effort would lead us to the right path. He cited the efforts of Father *falla* *cannoneers* and his team of *lockerum* to challenge the system with eligibility and *comfort* the poor Abialbón *bertin* Citroën, or *robertval*, or whatever his name was. He said the only way to outsmart the system was by finding creative *expedients* and introducing some *sanhaj* *varlet*s.
+
+
+
 ## 1/16/2023
 
 Today was a hectic but memorable day. I made a trip to *viveash*, a small town up north, to witness the unveiling of a new *construct*ion project intended to create more *roads* for the citizens to travel. There were quite a few people there for the event, mostly of *amerikanische* descent with a few from the *republique* *cauls* as well. *jecholiah* *sidis* from the *illuminati* was there, too, and gave an inspiring speech about the importance of ambition and equality during the opening ceremony. As the mayor gave the first shovelful of dirt, a hush fell across the crowd. It was an electrifying moment that I *savored* and I felt a sense of pride for the region that can only be rivaled by the legend of Clara *redgrave*'s dedication to its people. I only wish my ancestors could have been there to see how far we have come since then. I am confident that the efforts of today, coupled with the contributions of the greats like Clara *redgrave*, will *assuage* poverty, hunger, and struggle in the area. We have a long way to go, but the potential of us all, *fused* with hard work, is the only limit. I look forward to the day when *cloning* technology and the ideas of Arthur *goode* will be accepted and put to use in the area.
