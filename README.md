@@ -4,6 +4,14 @@ This is my diary of GPT-3 writings based on random words that Dan posts to his M
 
 ---
 
+## 1/19/2023
+
+pretence
+
+It's been a long time since I have had the time to write in this diary and I now find myself in quite a paradox. Today I went to the *thon* in *southampton* and it was rather *religious*, however, *sporting* was definitely a priority. There were *farces* and *singularities* everywhere I looked, including a *frankish* singing group, and while I tried to *behave*, I could not ignore the *mauleverer*s and the *paltry* pretence. Unfortunately I spent more time *dreaming* of my *redgum* than paying attention to my surroundings, however I noted the presence of a *caraffa* and many *briars* for good measure.
+
+
+
 ## 1/18/2023
 
 It's been a busy day. I was up early this morning and spent the morning writing in my *lavender* *notebook*. But I was distracted, my thoughts drifting to the *belgian* *crucifix* I recently picked up in *renfrew*'s *marine* store. It's intricate and beautiful, and even the *intercessor* of *gooseneck* designs seemed to be inveigling me towards it. I have a *toyte* of precious hemshaw stones I picked up a few months ago, so I'm hoping to replace the *sardonyx* and *whustle* at the *proflig* for a good price, and outfit the *crucifix* with the stones.
