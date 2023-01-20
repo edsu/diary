@@ -4,6 +4,12 @@ This is my diary of GPT-3 writings based on random words that Dan posts to his M
 
 ---
 
+## 1/20/2023
+
+Today was a really strange day. My family and I visited the *challenger* ranch and what seemed to be a never ending field of armed *scorpions* and *goolies*. Of course, we didn't expect it to be as serious as it was when we arrived. *yancey*, the *unlicensed* *officiate*, greeted us and gave us a tour. The *atmosphere* there was rather *disturbin*g, but what else would you expect in a *palace* so *despicable*? The *diffraction* of light caused by the *sakers* made it even more jovial to walk through with *slingsby* and his sheep. We said our prayers and anticipated the return, and thanked our lucky stars that we didn't get *shredded* by *reproof*.
+
+
+
 ## 1/19/2023
 
 pretence
