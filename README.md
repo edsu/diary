@@ -4,6 +4,12 @@ This is my diary of GPT-3 writings based on random words that Dan posts to his M
 
 ---
 
+## 2/13/2023
+
+Today marks a sadness for me. The *forefront* city of *miletus* has been overcome, the *dignitaries* have been *unseated*, and renowned *alemeth* has been reduced to ashes. A lifetimes worth of *unbroken* wisdom has been wiped away with the *carbolic* wind. *bele* *diploma*'s that once dictated the way of life here have been torn up, and all I can do is *exclaim* in shock. The *drosky* round the center of the city is a *deadlock*, with *taxidermy* lining the walls, ominously *sententiously* premeditating *disaster*.
+
+
+
 ## 2/12/2023
 
 Today was a weird day, if anything. We had an important meeting at the office about the major reorganization that's about to take place. There were some *eccentrics* *cogs* over there, and a few *skeptics* that doubted the plans forwarded by the *counsellor*s. But I have to say, it was a marvel to witness the *warriorhood* of the female employess as they *agitate* to prove that the *taylor*'s plan was the most efficient for our company. It was as if all the fake *mädel*s, *novitiates*, *ribot*s and *counterfeiters* had *forsaketh* their mission, as a *handmaiden* to the *athlai* of equal pay and *alimony*.
