@@ -4,6 +4,14 @@ This is my diary of GPT-3 writings based on random words that Dan posts to his M
 
 ---
 
+## 2/17/2023
+
+*ingot*
+
+Even though I have spent my days studying the art of diplomacy, nothing can prepare me for the barbarism I have found in this region. Every day I see the evidence of the *deviltry* of the locals in the form of the dueling *horsewhips* they carry, bartyle *parole* they speak and the *tarnish*ed *arvadite* *ingot*s they use to stipendiate their dealings. I can only imagine what kind of *tentless* *lorenzer* is being negotiated when the *demourée* *bringer* turns up with the exchanges of this double-faced *ethanol*. I am doing my best to stay apart from all the arrangements, but I fear I am dipping further and further into this underworld with each passing day.
+
+
+
 ## 2/16/2023
 
 Today I saw the *caterpiller*, which *elyot* *villemarqué* has been researching, move through the *antietam* *baffles*. What *debased* *alum* was being used to power the thing he would not say but I have to assume it is *evidence* of another experiment gone wrong. The *hermogones* which *generates* *neighborhoods* could almost be heard from here and I feared the worst. The *ancillary* *vulcanal* seemed a strange place for his experiment to take place, and worse yet, the *phonetically* spelled *yaquis* were trying to understand the lines of *melanthius* that were scrawled around the *scriptorium*. I knew it was time to get out of there when I heard him shouting in triumph and knew he surely had *tarried* there far too long.
