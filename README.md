@@ -4,6 +4,16 @@ This is my diary of GPT-3 writings based on random words that Dan posts to his M
 
 ---
 
+## 2/22/2023
+
+As I opened my diary, I couldn't help but reflect on the injustices occurring throughout the globe. The *dikembe* *internationalists* are doing amazing work in demanding higher *standards* for the many people living in unjust conditions. Of course, this noble effort to bring justice and equality to lower classes is met with shame and ridicule by those in power around the world, as they attempt to *montmorenci*-ize those who are trying to make a difference. Yet these *internationalists* remain valiant and continue to fight, sometimes even being *flogged* and incarcerated while doing so. There are many who are *disdaining* this movement, treating it as a *guller*-sort of fantasy, while they hide away in mountains like *shangri*-La. Then, there are those like me, ordinary citizens who realize that our ignorance towards *pretemporal* conditions are merely exacerbating the situation, thus moving us to *ignite* change. Together, we will overturn the current status quo, and make sure our world is free from systemic *wethers* of oppression.
+
+## 2/21/2023
+
+Today was just an average day. After work, I headed to my favorite bookshop - I'm such a *bibliophile*. I spent some time browsing the shelves, picking out the titles that I found most intriguing. Although the store had *fewer* *guaranties* than I'm used to, they still had some amazing books. I made my choices and headed home, but not before bumping into a few of my *familiars* in the shop. They were all very *talkative*, discussing a new book about *tirhakah*'s *onslaught* on *dankaleh*. Even *ffoulkes* was there, raving about the *fungus* remedy *smeerikin*. It was nice to catch up and reminisce about the days we used to talk about our *uncircumcision* adventures in *pops*. Sadly, some of the memories were tinged with the feeling that those days had been *demeans* accidently by our *acclevity*. Thinking about it made me feel *reminiscently*, so I switchedboard my way out of there.
+
+
+
 ## 2/20/2023
 
 i
