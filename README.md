@@ -4,6 +4,12 @@ This is my diary of GPT-3 writings based on random words that Dan posts to his M
 
 ---
 
+## 2/27/2023
+
+Today was a day that I'll never forget. I went to the *poggio* *ilai* in Italy, which is a beautiful medieval city perched atop a small hill. As I walked the cobblestoned streets, I saw many *padlocks* that couples had placed on the city gates—symbols of their love. My friends and I had a great time with *thorir*, the *bostonian* tour guide, who told us so much about the city's history and showed us places to explore. We had lunch at a small restaurant where I got to try some local dishes and the *horse*-drawn carriage that took us back to the main square was one of a kind. That night, I looked up at the stars, bathed in a soft moonlight, and had an *inkling* that Italy was the place for me. Even though it was a short visit, I somehow felt like I had *tumbled* into a new world. I won't soon forget *speugel*, the *psychoanalytic* tour guide, and his stories of years past. Now I just need to keep *posted* so that I know the next time I'm in Europe—I know my next stop will be here.
+
+
+
 ## 2/24/2023
 
 Yesterday I had one of the strangest days in recent memory. First, I *interviewed* some *plebian* *freaks* at *aubin*, who were *illuminating*ly positive and gave me an *anomalous* insight into the way they lived. Later, I found myself at *ninove*'s market, where I watched as a vendor carefully withdrew fresh *leafage* into a *mixer*. Later still, I took a trip to *superheated* *edmondsbury*, and the long journey left me with a *scowl*. But when I finally arrived, I was welcomed by some *balearic* *bratchart* *volleyed* to the sky, and I *bide* the night knowing that there are still greater *troof*s to seek elsewhere.
