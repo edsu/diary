@@ -6,7 +6,9 @@ This is my diary of GPT-3 writings based on random words that Dan posts to his M
 
 ## 3/6/2023
 
-Today, I have been perplexed by the sight before me. It was a strange combination of characters, each in their own way completely different. I saw on the docks, *bowsprit*s and *jenny*s, *nakib*s and *gaffer*s, *paraded* around the *internals* of a new land. I heard *lambs* of the *estranged*, and a *sall* jangling in a *nutshell*. I felt awkward in a *mangle* of people, jostling me from every direction. But then I heard a single call out ‘*howdy*’. I couldn’t help but feel something bubbling up inside. The half smiled faces and *underlip* of the locals, *abdon* and *durst*, the friendly *wardens* introducing me to the port; it was like a weight had been lifted and I suddenly felt free.
+Dear Diary, 
+
+Today was a strange day full of unexpected encounters. I went down to the harbor to see the *paraded* *internals* of the latest boat docked in town. As I walked past the ships, I got grazed by a *bowsprit* almost the size of the *jenny* *nakib*. It left a nasty *underlip* cut on my lower lip. I cursed under my breath and stumbled past the *gaffer*, who was busy untangling the *jostle* ropes. As I turned around a *nutshell* corner, I bumped into *sall*, an old friend I hadn't seen in years. We exchanged *howdy* greetings, and I couldn't help but notice how *estranged* we had become. We talked for a bit, but it was awkward and felt like we were trying to *mangle* old memories. Suddenly, I heard the loud *jangled* sound of a lamb, and I realized that the *wardens* must have let the herd escape. I looked around and saw *abdon*, the local shepherd, running towards them with his crook. It was all too much for me. I hurried back home, feeling as if I had just endured a chaotic mess of a day.
 
 
 
