@@ -10,6 +10,11 @@ Dear Diary,
 
 Today, during my morning walk by the harbour, I saw the most stunning ship with a proud *bowsprit* and a dazzling *Jenny*. The ship, named *Nakib*, had a *gaffer* that *paraded* beautifully in the breeze. As I walked along the docks, I noticed the *internals* of the ship were immaculate, but it was all just a *nutshell* without a human touch. Suddenly, I heard the distant sound of *lambs* bleating, which made me feel quite *estranged* from the bustling city life. As I turned the corner, a rowdy group of sailors rushed past me, *jangled* and *jostle*d in their excitement. One of them said, "*Howdy*!" And I couldn't help but smile. After all, the sea is the only place where a simple greeting can mean so much. I looked at my *underlip* quivering, and I knew that I had missed this feeling. Walking back, I saw a big man called *Abdon*, one of the *wardens* keeping watch over the harbour, and nodded a silent greeting. I noticed his weathered face and guessed the sea had not been kind to him either. "The sea gives and the sea takes," he said, looking at the *Nakib* as though it were his own. "But we always come back, don't we?" I wasn't sure if he was talking to me or to himself. Having never sailed in my life, I am fascinated by the sea and those who embody its spirit. Ah well, time to go, and it seems like I bit into an apple and I think I might have chipped a tooth. Must go get it checked, I hope I don't need a *mangle*. Until next time, dear diary.
 
+---
+
+**Note: switched from text-davinci-003 to gpt-3.5-turbo here.**
+
+---
 
 
 ## 3/5/2023

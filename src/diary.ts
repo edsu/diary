@@ -34,17 +34,23 @@ async function main() {
 
 async function getDiaryEntry(text) : Promise<string> {
 
-  const response = await openai.createCompletion({
-    model: "text-davinci-003",
+  const response = await openai.createChatCompletion({
+    model: 'gpt-3.5-turbo',
     max_tokens: 400,
-    prompt: `write a paragraph from a personal diary with the words: ${text}`
+    messages: [
+      {
+        role: 'user',
+        content: `write a paragraph from a personal diary with the words: ${text}`
+      }
+    ]
   });
 
   // if openai worked, italicize the seed words in the text and return it
-  if (response.data.choices[0].text) {
-    let entry = response.data.choices[0].text.trim();
+  const choices = response.data.choices
+  if (choices.length > 0 && choices[0].message) {
+    let entry = choices[0].message.content.trim();
     for (const word of text.split(' ')) {
-      entry = entry.replace(new RegExp(word, 'gi'), `*${word}*`);
+      entry = entry.replace(new RegExp('(' + word + ')', 'gi'), `*$1*`);
     }
     return entry; 
   } else {
