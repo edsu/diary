@@ -2,7 +2,8 @@
 
 This is my diary of GPT-3.5 writings based on random words that Dan posts to his
 Mastodon. It (usually) updates every day after he automatically posts some new
-words. Or at least that's the plan!
+words. Or at least that's the plan! The random words are italicized in the
+generated text.
 
 ---
 
