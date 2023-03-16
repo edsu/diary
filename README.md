@@ -7,6 +7,17 @@ generated text.
 
 ---
 
+## 3/16/2023
+
+Dear Diary,
+
+Today has been quite a strange day. I attended a festival in the city and found myself surrounded by *coquettish* women who were simply unbearable to be around. The crowd was largely made up of *Kurds*, and I couldn't help but feel a sense of animosity towards them. I *dislike* the way they always seem to hijack these celebrations with their culture and tradition. It's not that I despise them or anything - it's just that their presence feels *unwarrantable* to me. During the festival, I ran into *Mishael*, an old friend from school. We had a quick catch-up over a *dozend* of *grain*-based snacks and discussed our recent family histories. *Mishael* even went so far as to offer me some advice on a personal matter, and I find myself still considering his words even now. Later, I went to attend a *consultation* with my *ancestors* to seek their guidance on a problem I've been struggling with. The experience was quite overwhelming, and I found myself feeling *undying* gratitude towards them for their insight. *Hereupon*, I headed back to my apartment, my mind full of thoughts and my heart full of hope. 
+
+Yours truly,
+*Mahlah*.
+
+
+
 ## 3/15/2023
 
 Dear Diary,
