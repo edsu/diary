@@ -9,16 +9,21 @@ generated text.
 
 ## 3/17/2023
 
-May *xliii*,
+November 12, 2021
 
-Today, I *find* myself feeling *nauseating* in light of recent events—starring at my own reflection in the *Islamic* *mirror* I purchased during my trip to the *Ionian* Sea. *Surmisings* of my actions have *flapped* around in my head like wild, *balmier* larks insistant on *instigating* *schossen* thoughts. I cannot help but reflect on the *damage* I have caused, how the simple act of *cobbling* together words has created *thunderstorms* in the once *sinless* atmosphere of my relationships. The storm surages, and with every drop, I wish I could undo what I have done. There is a heaviness upon my chest, as if a *strainer* is tightening and *gerron* my heart—relentlessly reminding me that no matter how hard I try, there are some actions that just cannot be undone.
+Today, the power of a thunderstorm was truly awe-inspiring, as the sky appeared to be something out of an *Ionian* myth. Despite the newfound curiosity, I have for such wonders, I fear that I truly am my own *undoing*. With rain *flapped* mercilessly against the windows, I sat at my desk reflecting on the *damage* I'd done. 
 
+A gift from my dear friend *Gerron*, the *Islamic* *mirror* sitting across the room seemed to mock me. Every time I glanced at it, I saw a reflection of my own *nauseating* actions that led people I care for to suffer. I could feel the *sinless* innocence that should have belonged to me slipping away, leaving only inner turmoil and *surmisings* of a darker path ahead. 
+
+While the *Schossen* cathedral bell serenaded in the distance, marking the commencement of the *XLIII* annual celebration, I felt isolated in my own home. *Instigating* conflict was never my intention, but how does one *find* solace when every thought is a treacherous one? I found temporary solace in *cobbling* together a small contraption that my mind could focus on—a *strainer* to filter my racing thoughts. 
+
+As the storm subsided and the air grew *balmier*, I could only hope that the ache in my heart would settle too. I know I must move on, and learn from the devastation left behind. Maybe then, I can ensure that the storm in my soul never reaches the strength of those that disrupted the skies today.
 
 
 
 ---
 
-**Note: switched from gpt-3.5-turbo to gpt-4 here.**
+**Note: switched from gpt-3.5-turbo to gpt-4 and max_tokens=600 here.**
 
 ---
 
