@@ -35,12 +35,12 @@ async function main() {
 async function getDiaryEntry(text) : Promise<string> {
 
   const response = await openai.createChatCompletion({
-    model: 'gpt-3.5-turbo',
-    max_tokens: 400,
+    model: 'gpt-4',
+    max_tokens: 600,
     messages: [
       {
         role: 'user',
-        content: `write a paragraph from a personal diary with the words: ${text}`
+        content: `write a paragraph from a personal diary without the current date and with the words: ${text}`
       }
     ]
   });
