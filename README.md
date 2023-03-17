@@ -9,15 +9,7 @@ generated text.
 
 ## 3/17/2023
 
-November 12, 2021
-
-Today, the power of a thunderstorm was truly awe-inspiring, as the sky appeared to be something out of an *Ionian* myth. Despite the newfound curiosity, I have for such wonders, I fear that I truly am my own *undoing*. With rain *flapped* mercilessly against the windows, I sat at my desk reflecting on the *damage* I'd done. 
-
-A gift from my dear friend *Gerron*, the *Islamic* *mirror* sitting across the room seemed to mock me. Every time I glanced at it, I saw a reflection of my own *nauseating* actions that led people I care for to suffer. I could feel the *sinless* innocence that should have belonged to me slipping away, leaving only inner turmoil and *surmisings* of a darker path ahead. 
-
-While the *Schossen* cathedral bell serenaded in the distance, marking the commencement of the *XLIII* annual celebration, I felt isolated in my own home. *Instigating* conflict was never my intention, but how does one *find* solace when every thought is a treacherous one? I found temporary solace in *cobbling* together a small contraption that my mind could focus on—a *strainer* to filter my racing thoughts. 
-
-As the storm subsided and the air grew *balmier*, I could only hope that the ache in my heart would settle too. I know I must move on, and learn from the devastation left behind. Maybe then, I can ensure that the storm in my soul never reaches the strength of those that disrupted the skies today.
+Today seems to be the *xliii* day of endless *thunderstorms*, *balmier* than before and somehow *nauseating*. While I was out in the town *cobbling* shoes, I stumbled upon this so-called *sinless* *islamic* *mirror* which had captured everyone's attention; their *surmisings* were only *instigating* the feeling of despair within me. People would *find* even innocuous *islamic* items to be alarming. I couldn't help but think about *Gerron*, and how he had a knack for *undoing* that *flapped* about the turmoil within me, always knowing the right words to say or offering some kind of support. How I wish *Gerron* was here, providing the much-needed solace amidst the chaos of the day. Almost like a beautiful *Ionian* tune; a gentle *strainer* to let in only the good vibrations. I seem to be stuck within the agonizing loop of *Schossen*'s Theory, never truly escaping the consequences of life's *damage*, no matter how hard I try to overcome them.
 
 
 
