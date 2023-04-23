@@ -7,6 +7,12 @@ italicized in the generated text.
 
 ---
 
+## 4/23/2023
+
+Dear diary, today was a remarkably breathtaking day, as we embarked on our perilous journey to Mt. *Chaudmelle*. *Winston*, *Freddie*, and the ever-stoic *Martianus* *threw* caution to the wind as we trudged through the *abiertas* *bera*, *alarmingly* aware of the looming *threatenings* in the air. In the distance, we could hear the low *drumming* of *Custer*'s army as they *buildeth* their camp amongst the *fyer*. We were joined by our eccentric guide, *Azrikam*, who appears to be constantly *embarrassed* by his loquacious explanations on the historical importance of the mountain, particularly in relation to the many *tragedies* that had taken place here. The *permissions* granted for our expedition, however, has given us hope that we will not suffer any ill fate, unlike those who had come before us. As the day went on, we couldn't help but become captivated by the beauty that enveloped us, even whilst the feeling of *leaching* dread deepened in our souls.
+
+
+
 ## 4/21/2023
 
 Dear diary, 
