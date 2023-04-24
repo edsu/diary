@@ -7,6 +7,16 @@ italicized in the generated text.
 
 ---
 
+## 4/24/2023
+
+Dear Diary,
+
+Today was a *freezing* cold day, and yet, *Malchiah* still *deviseth* ways to have a barbecue outside. His *wasteful* use of *saltpetre* on the charcoals felt somewhat *detached* to our current reality, but he seems unfazed. I believe *recompense* was his way of making up for the time we spent shivering in the icy air, so together we huddled near the *posterior* of the grill, seeking warmth while our dinner was *grilling*. This *baffles* me, but I somehow couldn't shake off the sight of *Malchiah* *grinnin*g from ear to ear. I guess happiness truly is *rooted* in the smallest of moments when the people around you are *disarmed*, allowing themselves to live in the present.
+
+My inner desire for warmth led me to think whether the inventor of the gas grill, the *patentee*, if you will, ever imagined that the device would bring so much joy to people, even during the coldest of days. Maybe they knew that sometimes, happiness is but an *externality* of the things we create. As the aroma of the grilled food *tethers* me back to the present, I feel like anyone who manages to spark joy like this *deserves* a good night's *slumber* - something I'm looking forward to after this particularly chilly evening.
+
+
+
 ## 4/23/2023
 
 Dear diary, today was a remarkably breathtaking day, as we embarked on our perilous journey to Mt. *Chaudmelle*. *Winston*, *Freddie*, and the ever-stoic *Martianus* *threw* caution to the wind as we trudged through the *abiertas* *bera*, *alarmingly* aware of the looming *threatenings* in the air. In the distance, we could hear the low *drumming* of *Custer*'s army as they *buildeth* their camp amongst the *fyer*. We were joined by our eccentric guide, *Azrikam*, who appears to be constantly *embarrassed* by his loquacious explanations on the historical importance of the mountain, particularly in relation to the many *tragedies* that had taken place here. The *permissions* granted for our expedition, however, has given us hope that we will not suffer any ill fate, unlike those who had come before us. As the day went on, we couldn't help but become captivated by the beauty that enveloped us, even whilst the feeling of *leaching* dread deepened in our souls.
