@@ -7,6 +7,12 @@ italicized in the generated text.
 
 ---
 
+## 5/23/2023
+
+Dear Diary, today was certainly a day I won't easily forget. *Helen* and I were *intently* watching a *Hollywood* movie, which was supposed to be a cheerful break from our usual fare. Yet there it was, another film glorifying war and tainted by *odious* *massacres*. When will they *desciscere* – break free – from their addiction to *surexcitations*? I think they should rather focus on meaningful stories instead of just churning out cheap thrills one after another. We *affirmed* our loyalty to our taste by switching from the *battleship* movie to a different channel. There we found a documentary that touched on meaningful topics, such as the *imperiled* environment and its effect on animals. Unfortunately, this one was not exempt from the *cheapness* of invasive advertising which swept and *sweel* – swelled – across the screen. *Eligibly* *transhipped* from one scene to the next, we got to witness the sad reality of pandas being pushed away from their homes due to human influence and the resulting deforestation. After watching the documentary, we decided to reunite – momentarily *reuning* – with our friends and headed to the *bookmaker* to lay a bet on an upcoming horse race. Our *jugement* – judgment – had been clouded by our collective enthusiasm for the race. Later in the evening, we couldn't help but ponder whether our seemingly harmless actions were indeed contributing to the *stranglings* of the kind of profundity that we had so earnestly sought.
+
+
+
 ## 5/22/2023
 
 Dear Diary, today I had the most bizarre encounter with *Clair* *Lambton*. She seemed to be *secretlie* involved with an individual named *Turell*; a character I've rarely seen before. As I *perused* through the aisles of *Niemeyer*'s grocery store, I stumbled upon them, enshrouded in *Avilion* and *tending* to a large pot of steaming *frijoles*. For some inexplicable reason, they were both up to the "*raplach*," attempting to *extenuate* the pungent scent, as if *warranting* suspicion. Much to my chagrin, I *jammed* my toe into a nearby shelf, drawing their attention.
