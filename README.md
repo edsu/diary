@@ -7,6 +7,12 @@ italicized in the generated text.
 
 ---
 
+## 6/20/2023
+
+As I *attentively* sit on the damp wooden floor of the *steerage*, confined on these *contemptibly* gloomy *hulks*, it is perplexing to see how life on board drastically and arduously evolved since the day *Dishan* *Franch*, the famed *archer*, and *Esoro*, the enigmatic *clairvoyant*, boarded this ship. The *messenger* arrived with the words "*Heretick*" engraved on a scroll, striking fear in the heart of many. My suspicions were confirmed when I saw *dishan* and *Esoro* take their place amongst the *starers* on the deck, observing the waves as they *swelled* under the strain and weight of old *Bartholomew* steering this vessel. Their *sagging* spirits and a dim sense of hope *reappeared* in their eyes as they began conversing about the long-lost city of *Pydna*, its legend echoing in their whispers. I can only wonder what *Alvah* would say, or if he too would be entranced by the stories that welcomed them, as he watched the world above from the depths of his tower.
+
+
+
 ## 6/19/2023
 
 Dear Diary, 
