@@ -7,6 +7,18 @@ italicized in the generated text.
 
 ---
 
+## 8/25/2023
+
+A thrum of excitement pulsed through me as I traversed the myriad avenues of *Miamin*. The sights, sounds, and scents enveloped me in an *alien* world; chock full of contradictions - from bustling *distilleries* working to distill a hearty brew, to silent ancient ruins whispering tales of yore. Visiting my *kinsfolks* was an incidental *emolument* of my travels; a fact that my beleaguered bank account decidedly appreciated, given the outrageous *chariot* *outlays*. I was all but *overtaxed*.
+
+Witnessing the antiquated ossified *ovens*, I could almost picture *Eutychus* - labouring in the heat of the day, his sweat mixing with the dust of the ancient city of *Kedron*. His story ended in disgrace, a cautionary tale echoing the *dangers* of ambition unchecked. My heart sank - history was often cruel to those who dared to dream beyond their station.
+
+However, the vibrant spirit of the city was also encapsulated by *Sufiyyah*, an obscure poetess from ages past. Her verses, captured in vanishing *ebooks*, painted a portrait of a resilient woman who dared to challenge society’s norms. *Lahmi*, my distant cousin, shared her tale with a unique blend of pride and awe, his voice shimmering in the *darkling* twilight.
+
+Today, as I pen these words, I'm reminded - life *cancels* no one's journey till the end. We traverse these transient landscapes, weave our tales, brave perils, savour victories, and endure disgrace - all a part of this relentless journey called life. I find solace in this tumultuous narrative, for it mirrors my own journey filled with similar contradictions, triumphs, and failures.
+
+
+
 ## 8/24/2023
 
 The ambiance at *Ummah* was warm and inviting as I *eagerly* entered the gathering. The smell of *esculent* dishes wafted around and circumspectly, I noted several *externs* in attendance too. *Pebbles* crunched under my feet as I moved off the path to admire their beautifully manicured gardens. Among the guests, I spotted *Shelumiel*, the wise old *Abbot* from *Amiens* who never *shameth* in trotting out his wisdom. In the midst of our discussion, he presented me with a small bottle of *Laudanum*, a gift from his recent visit to *Roxbury*. With an enticing aura of mystery, he shared tales of his travels, gifting me vivid images of the Cathedral at *Upsala* and its remarkable *circumference*. He even shared delightful anecdotes about *piccaninnies* singing in the streets, enjoying *segg*s and indicaring directions to lost travellers. The occasion felt vibrant yet *inborn*, enriched by these tales of foreign lands seen through the *Abbot*’s wise eyes.
