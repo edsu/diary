@@ -7,6 +7,14 @@ italicized in the generated text.
 
 ---
 
+## 8/27/2023
+
+The *maniacal* quality of today was almost palpable. The *mart* was brimming with life, *stentorian* voices echoing amongst the chatter, the scent of fresh produce weaving its way through the crowd. I saw *Rosalie*, her hair a cascade of auburn waves, making her way through the throng, her face an *unsmiling* mask as she *mooches* from stall to stall, *charwon* clasped tightly in her hand. Or maybe it was *Alice*. She too, had been a regular at the *mart*. Always shopping, always *prepar*ing - but for what? They say she's waiting for '*Nekeb*' to come and *dominate* the world, restore some sort of '*adequacy*'. *Rosalie*, feigned ignorance but I knew the dread lurked beneath her facade, and I could see it in those fleeting moments when she let her guard down; particularly during one vivid memory when we were alone and she was *disrobing*. 
+
+The world outside the *portieres* seemed strange, as though mankind was destined to never be truly *scatheless*. An air of solemnity prevailed over life beyond the well-worn carpets and polished mantels of existence. It was in the quiet that the *weightiest* thoughts came, the blow sustained behind inscrutable expressions, etched deeper lines onto waning faces. And the *wather* continued with its ceaseless rhythm, falling tirelessly, as though determined to wash away the vestiges of the day. The *maniacal* drama of life never ceased its dance; it prevailed in its own juvenescent way.
+
+
+
 ## 8/25/2023
 
 A thrum of excitement pulsed through me as I traversed the myriad avenues of *Miamin*. The sights, sounds, and scents enveloped me in an *alien* world; chock full of contradictions - from bustling *distilleries* working to distill a hearty brew, to silent ancient ruins whispering tales of yore. Visiting my *kinsfolks* was an incidental *emolument* of my travels; a fact that my beleaguered bank account decidedly appreciated, given the outrageous *chariot* *outlays*. I was all but *overtaxed*.
