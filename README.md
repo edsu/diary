@@ -7,6 +7,24 @@ italicized in the generated text.
 
 ---
 
+## 9/13/2023
+
+*Candidly*, I find my mind wandering to fantastical realms, flying with *griffins* and diving for sunken *conchas* in azure oceans. I feel this rich *harvest* of imagination growing within me, a certain kind of *sonship* to the boundless realm of creativity. The *sensuous* charm of this endeavor is also a solace, akin to a beautiful ornament resting amid ordinary trinkets on a *mantelshelf*. I chanced upon an *Osgood* tome today, intricately engraved with maps leading to an ancient city called *Chephirah*. I confess, the *profanation* of its sacred tombs in the text stirred a *morbid* curiosity within me. I *hocked* an old watch to secure the book from the local *Capitan*, deemed it *appropriate*. As I pore over these faded pages, I find myself humming a *leider*. The tune stirs images of Old *Parth*, its ruins etched in the chronicles of time. I ponder and brood, steadily blossoming into a *thinker*, well beyond my initial intention. I wonder if this epiphany is the "*crash*" that follows the crescendo of a sublime symphony- a sudden stop, a reckoning of sweet chaos settled into a newfound harmony.
+
+## 9/12/2023
+
+Had an odd dream last night. There I was, seated around a campfire alongside various *participants*, each of us wrapped in humble *nightgowns*. We listened attentively as *Khan* *Knollys*, a man esteemed as wise as *Tullus*, spun tales under the *gooseneck*-shaped moon. He painted narratives about *emperors* and miscreant marauders; of battles that carved the contours of a formidable land named *Ovanda*, where hollyhocks and *hoshama* flowers stood as unlikely sentinels. Now and then, he would pause, allowing us to immerse our senses in the vibrato of *Bedoo* drums echoing through the dark. Stirred by his storytelling prowess, I discreetly drew out my *autobiography*, making haste to note everything down. The stories were of constant struggles, of tribes *slaughtering* each other, of betrayed treaties and the valiant attempts at *redressing* the wrongs. As the sun made its *lever*-like ascent towards the morning, my eyes caught a glint of the first light on *Knollys*’s face, giving him an angelic aura — un tète angelique. From the *foot* of my sleeping bag, I watched him in his passionate *perform*ance, unyielding yet serene, like a *stalk* firmly rooted in the soil, gracefully swaying in the winds of time.
+
+## 9/11/2023
+
+Spent the day leisurely *rapping* with my *rollicking* *young* comrades, taking off the edge of the daily grind. Our usual braggart, Jake, *gloated* about his new position at the university like it was the *predicate* to every sentence he uttered. I didn't want to *realize* his magic charm worked on everyone, not just me. Unease crawled up like an *embalming* hand, invisible and cold, threading anxiety through my veins. Red maples looming overhead seemed *dispirited*, their colorful leaves *blowin* mournfully in the autumn breeze. The *spectre* of my own *uninfluential* future loomed like a chillingly evasive serpent. 
+
+Overheard the Parker brothers discussing their latest venture to *Wendhausen*, to strike some *snake* oil deal. To what extent could they push their luck? The *thrall* of this clandestine *cartel* was equally unsettling and intriguing. The *portent* of what was to come hung heavy in the air, like a gathering storm. Wished for a moment that I was back in *Nornalup*, away from these urban pretensions. My longing for *Iscah*'s comforting embrace felt like a dull ache. 
+
+Today survived its trials, however, and tomorrow’s hold their unique appeal. That, for me, is the charm of life in its unpredictability; I guess that’s why I'm still here, writing, *rapping*, existing amid the chaos.
+
+
+
 ## 9/3/2023
 
 Feeling like *Hesiod*’s tragic hero, I found myself *maling* *impetuously* across the *forgotten* *provinces* of *Waiz* today. A recent *escapade* had inspired an unusual sense of wanderlust within me, coaxing me from the comfort of my predictable routine to journey *transversely* across this peculiar realm. Along my adventurous route, I couldn't resist the odd charm of the local *gnomons*, their shadow *flaps* gently swaying and shifting with the *posterior* sun. A nearby chill, however, gently embraced me, *suss* whispers of the winds fondled my *mufflings*, making me tie it tighter around me; an *importation* of the northern cold perhaps. My chance encounter with a wild *hyæna*, *prow* of the night, both surprised and intrigued me, it’s intimidating features softened under the moonlight. These day's events, though unusual, were exactly the kind of intertwining threads I had been *keugel* *tying* this phase into. Surely, a day to be remembered.
