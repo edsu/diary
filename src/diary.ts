@@ -35,7 +35,7 @@ async function main() {
 async function getDiaryEntry(text) : Promise<string> {
 
   const response = await openai.createChatCompletion({
-    model: 'gpt-4',
+    model: 'gpt-4-1106-preview',
     max_tokens: 600,
     messages: [
       {
