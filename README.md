@@ -19,6 +19,12 @@ By evening, as the dusk air became redolent with the aroma of simmering *leeks*,
 
 And so, I'm retiring to bed, the day's activities having left their mark. My thoughts are rich, kaleidoscopic—a collage of *mastery*, reflection, and culinary *ritt* ("ride" or "journey" in German). I'm grateful for these days of sheer presence, where every sensation and discovery seems somehow amplified. It's *amazing*, Diary, truly *amazing*.
 
+---
+
+**Note: switched from gpt-4 to gpt-4-1106-preview here.**
+
+---
+
 ## 11/5/2023
 
 Today's mood oscillates between reflection and disbelief, with thoughts as scattered as leaves in the wind. It's *incredibly* fascinating to consider the breadth of human knowledge, from the ancient sophistries of *Gorgias*, whose arguments could be akin to verbal *incantations*, to the complexities of modern relationships that can, with a whisper or a shout, lead to something as final as *divorce*. I spent part of the afternoon reading an *eText06* of *Gibbons*' magnum opus; the decline and fall of great empires feel almost like *springs* *devolving* into winter, each chapter a marshal of somber historical reality.
